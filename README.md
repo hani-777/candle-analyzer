@@ -38,7 +38,8 @@ python candle_analyzer.py
 
 ## 📈 Example Output
 
-![Bar Chart Example](./example_output/candle_analysis_example.png)
+![EURUSD Report](example_output/EURUSD.webp)
+![XAUUSD Report](example_output/XAUUSD.webp)
 
 ## 💡 Why This Is Useful
 
